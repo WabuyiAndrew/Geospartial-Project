@@ -32,7 +32,7 @@ The repository documents the data acquisition, processing, and visualization met
 
 ## 📈 Detailed Workflow: Data Processing Steps
 
-This section outlines the primary steps executed during the internship using **ArcMap** and external tools, with image placeholders to illustrate the process.
+This section outlines the primary steps executed during the internship using **ArcMap** and external tools, with images illustrating the process.
 
 ### 1. Data Acquisition & Preparation
 
@@ -50,7 +50,7 @@ This section outlines the primary steps executed during the internship using **A
     `![Figure 8: Shapefile added as a layer in ArcMap](images/figure_8_shapefile_in_arcmap.png)`
 2.  **Index Calculation:** Ran the **Raster Calculator** to generate the $\text{NDVI}$, $\text{NDMI}$, and $\text{NDRE}$ raster layers.
 3.  **Classification & Visualization:** **Reclassified** the index layers into meaningful classes and applied relevant **color ramps** for intuitive display.
-    `![Figure 9: NDVI raster layer](images/figure_9_ndvi_raster.png)`
+    `![Figure 9: NDVI raster layer](images/NDVI.png)` **<-- Using your specified file name**
 4.  **Statistical Analysis:** Converted the final classified raster maps to $\text{Polygon Shapefiles}$ to enable area calculation (in hectares) using $\text{Geometry Calculation}$ and exporting statistics to Excel.
     `![Figure 10: Area of Classes statistical summary in Excel](images/figure_10_area_in_excel.png)`
 
