@@ -58,7 +58,7 @@ This section outlines the primary steps executed during the internship using **A
 
 1.  **Map Layout:** Designed **map layouts** (including title, legend, scale, north arrow) and exported high-quality $\text{PNG/JPEG}$ maps for reporting.
     `![Figure 11: Final NDVI map in Layout View](images/figure_11_ndvi_map_layout.png)`
-    `![Figure 12: Final Exported NDVI Map](images/figure_12_exported_map.png)`
+    `![Figure 12: Final Exported NDVI Map](images/NDVI.jpg)`
 
 ---
 
